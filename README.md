@@ -68,6 +68,9 @@ This Byte Pair Encoding (BPE) project has been deployed on Hugging Face Spaces t
 
 You can try out the live version of this project directly on Hugging Face Spaces by visiting the following link: https://huggingface.co/spaces/ChaitraSaiK/Telugu_encoder
 
+![image](https://github.com/user-attachments/assets/212df83f-f162-4f80-a737-670e100ea306)
+
+
 
 
 
