@@ -1,4 +1,4 @@
-# Byte Pair Encoding (BPE) Compression Implementation
+# Byte Pair Encoding (BPE) Tokenizer for Indic Language - Telugu
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
