@@ -51,7 +51,7 @@ Compression Statistics: Reports the compression ratio and token count before and
 
 - The script calculates the compression ratio based on the lengths of the original and compressed token sequences.
 
-### Results
+# Results
 
 The script demonstrates the compression capabilities of BPE with the following results:
 
@@ -60,3 +60,14 @@ The script demonstrates the compression capabilities of BPE with the following r
 - Compressed tokens length: 3,156
 
 - Compression ratio: 3.91X
+
+
+# Hugging Face Space
+
+This Byte Pair Encoding (BPE) project has been deployed on Hugging Face Spaces to provide an interactive interface for testing and experimenting with the BPE algorithm.
+
+You can try out the live version of this project directly on Hugging Face Spaces by visiting the following link: https://huggingface.co/spaces/ChaitraSaiK/Telugu_encoder
+
+
+
+
