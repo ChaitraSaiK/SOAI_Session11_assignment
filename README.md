@@ -21,7 +21,7 @@ Compression Statistics: Reports the compression ratio and token count before and
 
 # How It Works
 
-Text Cleaning:
+### Text Cleaning:
 
 - Special characters (\r, \n, \xa0) are replaced with spaces.
 
@@ -29,13 +29,13 @@ Text Cleaning:
 
 - Multiple spaces are collapsed into a single space.
 
-Tokenization:
+### Tokenization:
 
 - Each cleaned text is encoded into a sequence of UTF-8 byte tokens.
 
 - These tokens are stored as integers for processing.
 
-BPE Training:
+### BPE Training:
 
 - A vocabulary size is set (in this example, 350 tokens).
 
@@ -43,18 +43,20 @@ BPE Training:
 
 - Each new merge is assigned a unique token ID starting from 256.
 
-Merge Process:
+### Merge Process:
 
 - The merge() function replaces occurrences of a token pair with a new token ID in the token sequence.
 
-Compression Statistics:
+### Compression Statistics:
 
 - The script calculates the compression ratio based on the lengths of the original and compressed token sequences.
 
-Results
+### Results
 
-- The script demonstrates the compression capabilities of BPE with the following results:
+The script demonstrates the compression capabilities of BPE with the following results:
 
-Original tokens length: 12,326
-Compressed tokens length: 3,156
-Compression ratio: 3.91X
+- Original tokens length: 12,326
+
+- Compressed tokens length: 3,156
+
+- Compression ratio: 3.91X
