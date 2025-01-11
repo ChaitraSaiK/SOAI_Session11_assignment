@@ -2,11 +2,11 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=lightning&logoColor=white)](https://www.pytorchlightning.ai/)
-[![DVC](https://img.shields.io/badge/DVC-Data%20Version%20Control-945DD6?logo=dvc)](https://dvc.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces)
+[![Task](https://img.shields.io/badge/Task-NLP-green.svg)](https://github.com/yourusername/repo)
+[![Tokenizer](https://img.shields.io/badge/Tokenizer-BPE-orange.svg)](https://github.com/yourusername/repo)
+
+
 
 This repository contains an implementation of Byte Pair Encoding (BPE) for Telugu text encoding. It works by iteratively merging the most frequent pairs of adjacent symbols (characters or tokens) in the text into a single new symbol. This process is repeated until a desired vocabulary size or compression goal is achieved. The compression ratio achieved in this example is approximately 3.91X.
 
