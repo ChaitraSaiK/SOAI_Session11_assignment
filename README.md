@@ -10,6 +10,10 @@
 
 This repository contains an implementation of Byte Pair Encoding (BPE) for Telugu text encoding. It works by iteratively merging the most frequent pairs of adjacent symbols (characters or tokens) in the text into a single new symbol. This process is repeated until a desired vocabulary size or compression goal is achieved. The compression ratio achieved in this example is approximately 3.91X.
 
+# Dataset
+
+This dataset helps in Natural language processing for Telugu language : link - https://www.kaggle.com/datasets/sudalairajkumar/telugu-nlp?select=telugu_books
+
 # Features
 Text Cleaning: Removes special characters, extra whitespace, punctuation, and digits from the input texts.
 
