@@ -1,4 +1,4 @@
-# Byte Pair Encoding (BPE) Compression Implementation
+# Byte Pair Encoding (BPE) Tokenizer for Indic Language - Telugu
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
@@ -67,6 +67,9 @@ The script demonstrates the compression capabilities of BPE with the following r
 This Byte Pair Encoding (BPE) project has been deployed on Hugging Face Spaces to provide an interactive interface for testing and experimenting with the BPE algorithm.
 
 You can try out the live version of this project directly on Hugging Face Spaces by visiting the following link: https://huggingface.co/spaces/ChaitraSaiK/Telugu_encoder
+
+![image](https://github.com/user-attachments/assets/212df83f-f162-4f80-a737-670e100ea306)
+
 
 
 
